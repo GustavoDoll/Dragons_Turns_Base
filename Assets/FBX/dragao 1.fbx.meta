@@ -1,0 +1,1287 @@
+fileFormatVersion: 2
+guid: 406cce087c905e74a861e0dca8f3c90b
+timeCreated: 1507656311
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: areaLight1
+    100002: Asa1
+    100004: Asa1Esquerda
+    100006: Asa2
+    100008: Asa2Esquerda
+    100010: Asa3
+    100012: Asa3Esquerda
+    100014: AsaComeco
+    100016: AsaComeco1
+    100018: AsaComecoEsquerda
+    100020: AsaFinalEsquerda
+    100022: AsaFinalPontaDireita
+    100024: AsaPontaDireita
+    100026: Boca
+    100028: cabecaMeio
+    100030: Calda1
+    100032: Calda2
+    100034: Calda3
+    100036: Calda4
+    100038: Calda5
+    100040: CaldaComeco
+    100042: CaldaFinal
+    100044: ComecoPescoco
+    100046: curve1
+    100048: curve2
+    100050: curve3
+    100052: curve4
+    100054: //RootNode
+    100056: FinalDorco
+    100058: FinalPescoco
+    100060: group
+    100062: MeioQuadril
+    100064: pCube1
+    100066: pCube2
+    100068: PernaDireitaCanelaFrontal
+    100070: PernaDireitaCanelaTraseira
+    100072: PernaDireitaCoxaFrontal
+    100074: PernaDireitaCoxaTraseira
+    100076: PernaDireitaDedosFrontal
+    100078: PernaDireitaDedosTraseiro
+    100080: PernaDireitaPeFrontal
+    100082: PernaDireitaPeTraseiro
+    100084: PernaEsquerdaCanelaFrontal
+    100086: PernaEsquerdaCanelaTraseira
+    100088: PernaEsquerdaCoxaFrontal
+    100090: PernaEsquerdaCoxaTraseira
+    100092: PernaEsquerdaDedosFrontal
+    100094: PernaEsquerdaDedosTraseiro
+    100096: PernaEsquerdaPeFrontal
+    100098: PernaEsquerdaPeTraseiro
+    100100: polySurface1
+    100102: polySurface10
+    100104: polySurface10 1
+    100106: polySurface11
+    100108: polySurface12
+    100110: polySurface12 1
+    100112: polySurface13
+    100114: polySurface14
+    100116: polySurface15
+    100118: polySurface15 1
+    100120: polySurface16
+    100122: polySurface16 1
+    100124: polySurface17
+    100126: polySurface18
+    100128: polySurface18 1
+    100130: polySurface19
+    100132: polySurface21
+    100134: polySurface22
+    100136: polySurface25
+    100138: polySurface26
+    100140: polySurface28
+    100142: polySurface29
+    100144: polySurface3
+    100146: polySurface4
+    100148: polySurface6
+    100150: polySurface7
+    100152: polySurface7 1
+    100154: polySurface74
+    100156: polySurface8
+    100158: polySurface9
+    100160: QuadrilFrontal
+    100162: QuadrilPrincipal
+    100164: transform10
+    100166: transform11
+    100168: transform12
+    100170: transform13
+    100172: transform14
+    100174: transform15
+    100176: transform16
+    100178: transform17
+    100180: transform18
+    100182: transform19
+    100184: transform20
+    100186: transform21
+    100188: transform22
+    100190: transform23
+    100192: transform24
+    100194: transform25
+    100196: transform26
+    100198: transform27
+    100200: transform28
+    100202: transform29
+    100204: transform30
+    100206: transform31
+    100208: transform5
+    100210: transform6
+    100212: transform7
+    100214: transform8
+    100216: transform9
+    400000: areaLight1
+    400002: Asa1
+    400004: Asa1Esquerda
+    400006: Asa2
+    400008: Asa2Esquerda
+    400010: Asa3
+    400012: Asa3Esquerda
+    400014: AsaComeco
+    400016: AsaComeco1
+    400018: AsaComecoEsquerda
+    400020: AsaFinalEsquerda
+    400022: AsaFinalPontaDireita
+    400024: AsaPontaDireita
+    400026: Boca
+    400028: cabecaMeio
+    400030: Calda1
+    400032: Calda2
+    400034: Calda3
+    400036: Calda4
+    400038: Calda5
+    400040: CaldaComeco
+    400042: CaldaFinal
+    400044: ComecoPescoco
+    400046: curve1
+    400048: curve2
+    400050: curve3
+    400052: curve4
+    400054: //RootNode
+    400056: FinalDorco
+    400058: FinalPescoco
+    400060: group
+    400062: MeioQuadril
+    400064: pCube1
+    400066: pCube2
+    400068: PernaDireitaCanelaFrontal
+    400070: PernaDireitaCanelaTraseira
+    400072: PernaDireitaCoxaFrontal
+    400074: PernaDireitaCoxaTraseira
+    400076: PernaDireitaDedosFrontal
+    400078: PernaDireitaDedosTraseiro
+    400080: PernaDireitaPeFrontal
+    400082: PernaDireitaPeTraseiro
+    400084: PernaEsquerdaCanelaFrontal
+    400086: PernaEsquerdaCanelaTraseira
+    400088: PernaEsquerdaCoxaFrontal
+    400090: PernaEsquerdaCoxaTraseira
+    400092: PernaEsquerdaDedosFrontal
+    400094: PernaEsquerdaDedosTraseiro
+    400096: PernaEsquerdaPeFrontal
+    400098: PernaEsquerdaPeTraseiro
+    400100: polySurface1
+    400102: polySurface10
+    400104: polySurface10 1
+    400106: polySurface11
+    400108: polySurface12
+    400110: polySurface12 1
+    400112: polySurface13
+    400114: polySurface14
+    400116: polySurface15
+    400118: polySurface15 1
+    400120: polySurface16
+    400122: polySurface16 1
+    400124: polySurface17
+    400126: polySurface18
+    400128: polySurface18 1
+    400130: polySurface19
+    400132: polySurface21
+    400134: polySurface22
+    400136: polySurface25
+    400138: polySurface26
+    400140: polySurface28
+    400142: polySurface29
+    400144: polySurface3
+    400146: polySurface4
+    400148: polySurface6
+    400150: polySurface7
+    400152: polySurface7 1
+    400154: polySurface74
+    400156: polySurface8
+    400158: polySurface9
+    400160: QuadrilFrontal
+    400162: QuadrilPrincipal
+    400164: transform10
+    400166: transform11
+    400168: transform12
+    400170: transform13
+    400172: transform14
+    400174: transform15
+    400176: transform16
+    400178: transform17
+    400180: transform18
+    400182: transform19
+    400184: transform20
+    400186: transform21
+    400188: transform22
+    400190: transform23
+    400192: transform24
+    400194: transform25
+    400196: transform26
+    400198: transform27
+    400200: transform28
+    400202: transform29
+    400204: transform30
+    400206: transform31
+    400208: transform5
+    400210: transform6
+    400212: transform7
+    400214: transform8
+    400216: transform9
+    4300000: polySurface74
+    7400000: atk1
+    7400002: atk2
+    7400004: def
+    7400006: idle
+    9500000: //RootNode
+    11100000: //RootNode
+    13700000: polySurface74
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: atk1
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: areaLight1
+        weight: 1
+      - path: curve1
+        weight: 1
+      - path: curve2
+        weight: 1
+      - path: curve3
+        weight: 1
+      - path: curve4
+        weight: 1
+      - path: group
+        weight: 1
+      - path: pCube1
+        weight: 1
+      - path: pCube1/polySurface1
+        weight: 1
+      - path: pCube1/polySurface1/polySurface3
+        weight: 1
+      - path: pCube1/polySurface1/polySurface3/polySurface4
+        weight: 1
+      - path: pCube2
+        weight: 1
+      - path: pCube2/polySurface6
+        weight: 1
+      - path: pCube2/polySurface6/polySurface7 1
+        weight: 1
+      - path: pCube2/polySurface6/polySurface7 1/transform8
+        weight: 1
+      - path: pCube2/polySurface6/polySurface8
+        weight: 1
+      - path: pCube2/polySurface6/polySurface8/transform7
+        weight: 1
+      - path: pCube2/polySurface6/transform6
+        weight: 1
+      - path: pCube2/transform5
+        weight: 1
+      - path: polySurface7
+        weight: 1
+      - path: polySurface7/polySurface9
+        weight: 1
+      - path: polySurface7/polySurface9/polySurface10 1
+        weight: 1
+      - path: polySurface7/polySurface9/polySurface10 1/transform12
+        weight: 1
+      - path: polySurface7/polySurface9/polySurface11
+        weight: 1
+      - path: polySurface7/polySurface9/polySurface11/transform11
+        weight: 1
+      - path: polySurface7/polySurface9/transform10
+        weight: 1
+      - path: polySurface7/transform9
+        weight: 1
+      - path: polySurface10
+        weight: 1
+      - path: polySurface10/polySurface12 1
+        weight: 1
+      - path: polySurface10/polySurface12 1/transform15
+        weight: 1
+      - path: polySurface10/polySurface13
+        weight: 1
+      - path: polySurface10/polySurface13/transform14
+        weight: 1
+      - path: polySurface10/transform13
+        weight: 1
+      - path: polySurface12
+        weight: 1
+      - path: polySurface12/polySurface14
+        weight: 1
+      - path: polySurface12/polySurface14/transform17
+        weight: 1
+      - path: polySurface12/polySurface15 1
+        weight: 1
+      - path: polySurface12/polySurface15 1/transform18
+        weight: 1
+      - path: polySurface12/transform16
+        weight: 1
+      - path: polySurface15
+        weight: 1
+      - path: polySurface15/polySurface16 1
+        weight: 1
+      - path: polySurface15/polySurface16 1/transform21
+        weight: 1
+      - path: polySurface15/polySurface17
+        weight: 1
+      - path: polySurface15/polySurface17/transform20
+        weight: 1
+      - path: polySurface15/transform19
+        weight: 1
+      - path: polySurface16
+        weight: 1
+      - path: polySurface16/polySurface18 1
+        weight: 1
+      - path: polySurface16/polySurface18 1/transform24
+        weight: 1
+      - path: polySurface16/polySurface19
+        weight: 1
+      - path: polySurface16/polySurface19/transform23
+        weight: 1
+      - path: polySurface16/transform22
+        weight: 1
+      - path: polySurface18
+        weight: 1
+      - path: polySurface18/polySurface21
+        weight: 1
+      - path: polySurface18/polySurface21/polySurface22
+        weight: 1
+      - path: polySurface18/polySurface21/polySurface22/polySurface25
+        weight: 1
+      - path: polySurface18/polySurface21/polySurface22/polySurface25/polySurface26
+        weight: 1
+      - path: polySurface18/polySurface21/polySurface22/polySurface25/polySurface26/polySurface28
+        weight: 1
+      - path: polySurface18/polySurface21/polySurface22/polySurface25/polySurface26/polySurface28/polySurface29
+        weight: 1
+      - path: polySurface18/polySurface21/polySurface22/polySurface25/polySurface26/polySurface28/polySurface29/transform31
+        weight: 1
+      - path: polySurface18/polySurface21/polySurface22/polySurface25/polySurface26/polySurface28/transform30
+        weight: 1
+      - path: polySurface18/polySurface21/polySurface22/polySurface25/polySurface26/transform29
+        weight: 1
+      - path: polySurface18/polySurface21/polySurface22/polySurface25/transform28
+        weight: 1
+      - path: polySurface18/polySurface21/polySurface22/transform27
+        weight: 1
+      - path: polySurface18/polySurface21/transform26
+        weight: 1
+      - path: polySurface18/transform25
+        weight: 1
+      - path: polySurface74
+        weight: 1
+      - path: QuadrilPrincipal
+        weight: 1
+      - path: QuadrilPrincipal/CaldaComeco
+        weight: 1
+      - path: QuadrilPrincipal/CaldaComeco/Calda1
+        weight: 1
+      - path: QuadrilPrincipal/CaldaComeco/Calda1/Calda2
+        weight: 1
+      - path: QuadrilPrincipal/CaldaComeco/Calda1/Calda2/Calda3
+        weight: 1
+      - path: QuadrilPrincipal/CaldaComeco/Calda1/Calda2/Calda3/Calda4
+        weight: 1
+      - path: QuadrilPrincipal/CaldaComeco/Calda1/Calda2/Calda3/Calda4/Calda5
+        weight: 1
+      - path: QuadrilPrincipal/CaldaComeco/Calda1/Calda2/Calda3/Calda4/Calda5/CaldaFinal
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/AsaComeco
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/AsaComeco/AsaPontaDireita
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/AsaComeco/AsaPontaDireita/Asa1
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/AsaComeco/AsaPontaDireita/Asa1/Asa2
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/AsaComeco/AsaPontaDireita/Asa1/Asa2/Asa3
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/AsaComeco/AsaPontaDireita/Asa1/Asa2/Asa3/AsaFinalPontaDireita
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/AsaComeco1
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/AsaComeco1/AsaComecoEsquerda
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/AsaComeco1/AsaComecoEsquerda/Asa1Esquerda
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/AsaComeco1/AsaComecoEsquerda/Asa1Esquerda/Asa2Esquerda
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/AsaComeco1/AsaComecoEsquerda/Asa1Esquerda/Asa2Esquerda/Asa3Esquerda
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/AsaComeco1/AsaComecoEsquerda/Asa1Esquerda/Asa2Esquerda/Asa3Esquerda/AsaFinalEsquerda
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/QuadrilFrontal
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/QuadrilFrontal/FinalDorco
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/QuadrilFrontal/FinalDorco/ComecoPescoco
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/QuadrilFrontal/FinalDorco/ComecoPescoco/FinalPescoco
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/QuadrilFrontal/FinalDorco/ComecoPescoco/FinalPescoco/cabecaMeio
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/QuadrilFrontal/FinalDorco/ComecoPescoco/FinalPescoco/cabecaMeio/Boca
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/QuadrilFrontal/PernaDireitaCoxaFrontal
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/QuadrilFrontal/PernaDireitaCoxaFrontal/PernaDireitaCanelaFrontal
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/QuadrilFrontal/PernaDireitaCoxaFrontal/PernaDireitaCanelaFrontal/PernaDireitaPeFrontal
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/QuadrilFrontal/PernaDireitaCoxaFrontal/PernaDireitaCanelaFrontal/PernaDireitaPeFrontal/PernaDireitaDedosFrontal
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/QuadrilFrontal/PernaEsquerdaCoxaFrontal
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/QuadrilFrontal/PernaEsquerdaCoxaFrontal/PernaEsquerdaCanelaFrontal
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/QuadrilFrontal/PernaEsquerdaCoxaFrontal/PernaEsquerdaCanelaFrontal/PernaEsquerdaPeFrontal
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/QuadrilFrontal/PernaEsquerdaCoxaFrontal/PernaEsquerdaCanelaFrontal/PernaEsquerdaPeFrontal/PernaEsquerdaDedosFrontal
+        weight: 1
+      - path: QuadrilPrincipal/PernaDireitaCoxaTraseira
+        weight: 1
+      - path: QuadrilPrincipal/PernaDireitaCoxaTraseira/PernaDireitaCanelaTraseira
+        weight: 1
+      - path: QuadrilPrincipal/PernaDireitaCoxaTraseira/PernaDireitaCanelaTraseira/PernaDireitaPeTraseiro
+        weight: 1
+      - path: QuadrilPrincipal/PernaDireitaCoxaTraseira/PernaDireitaCanelaTraseira/PernaDireitaPeTraseiro/PernaDireitaDedosTraseiro
+        weight: 1
+      - path: QuadrilPrincipal/PernaEsquerdaCoxaTraseira
+        weight: 1
+      - path: QuadrilPrincipal/PernaEsquerdaCoxaTraseira/PernaEsquerdaCanelaTraseira
+        weight: 1
+      - path: QuadrilPrincipal/PernaEsquerdaCoxaTraseira/PernaEsquerdaCanelaTraseira/PernaEsquerdaPeTraseiro
+        weight: 1
+      - path: QuadrilPrincipal/PernaEsquerdaCoxaTraseira/PernaEsquerdaCanelaTraseira/PernaEsquerdaPeTraseiro/PernaEsquerdaDedosTraseiro
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: atk2
+      takeName: Take 001
+      firstFrame: 130
+      lastFrame: 200
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: areaLight1
+        weight: 1
+      - path: curve1
+        weight: 1
+      - path: curve2
+        weight: 1
+      - path: curve3
+        weight: 1
+      - path: curve4
+        weight: 1
+      - path: group
+        weight: 1
+      - path: pCube1
+        weight: 1
+      - path: pCube1/polySurface1
+        weight: 1
+      - path: pCube1/polySurface1/polySurface3
+        weight: 1
+      - path: pCube1/polySurface1/polySurface3/polySurface4
+        weight: 1
+      - path: pCube2
+        weight: 1
+      - path: pCube2/polySurface6
+        weight: 1
+      - path: pCube2/polySurface6/polySurface7 1
+        weight: 1
+      - path: pCube2/polySurface6/polySurface7 1/transform8
+        weight: 1
+      - path: pCube2/polySurface6/polySurface8
+        weight: 1
+      - path: pCube2/polySurface6/polySurface8/transform7
+        weight: 1
+      - path: pCube2/polySurface6/transform6
+        weight: 1
+      - path: pCube2/transform5
+        weight: 1
+      - path: polySurface7
+        weight: 1
+      - path: polySurface7/polySurface9
+        weight: 1
+      - path: polySurface7/polySurface9/polySurface10 1
+        weight: 1
+      - path: polySurface7/polySurface9/polySurface10 1/transform12
+        weight: 1
+      - path: polySurface7/polySurface9/polySurface11
+        weight: 1
+      - path: polySurface7/polySurface9/polySurface11/transform11
+        weight: 1
+      - path: polySurface7/polySurface9/transform10
+        weight: 1
+      - path: polySurface7/transform9
+        weight: 1
+      - path: polySurface10
+        weight: 1
+      - path: polySurface10/polySurface12 1
+        weight: 1
+      - path: polySurface10/polySurface12 1/transform15
+        weight: 1
+      - path: polySurface10/polySurface13
+        weight: 1
+      - path: polySurface10/polySurface13/transform14
+        weight: 1
+      - path: polySurface10/transform13
+        weight: 1
+      - path: polySurface12
+        weight: 1
+      - path: polySurface12/polySurface14
+        weight: 1
+      - path: polySurface12/polySurface14/transform17
+        weight: 1
+      - path: polySurface12/polySurface15 1
+        weight: 1
+      - path: polySurface12/polySurface15 1/transform18
+        weight: 1
+      - path: polySurface12/transform16
+        weight: 1
+      - path: polySurface15
+        weight: 1
+      - path: polySurface15/polySurface16 1
+        weight: 1
+      - path: polySurface15/polySurface16 1/transform21
+        weight: 1
+      - path: polySurface15/polySurface17
+        weight: 1
+      - path: polySurface15/polySurface17/transform20
+        weight: 1
+      - path: polySurface15/transform19
+        weight: 1
+      - path: polySurface16
+        weight: 1
+      - path: polySurface16/polySurface18 1
+        weight: 1
+      - path: polySurface16/polySurface18 1/transform24
+        weight: 1
+      - path: polySurface16/polySurface19
+        weight: 1
+      - path: polySurface16/polySurface19/transform23
+        weight: 1
+      - path: polySurface16/transform22
+        weight: 1
+      - path: polySurface18
+        weight: 1
+      - path: polySurface18/polySurface21
+        weight: 1
+      - path: polySurface18/polySurface21/polySurface22
+        weight: 1
+      - path: polySurface18/polySurface21/polySurface22/polySurface25
+        weight: 1
+      - path: polySurface18/polySurface21/polySurface22/polySurface25/polySurface26
+        weight: 1
+      - path: polySurface18/polySurface21/polySurface22/polySurface25/polySurface26/polySurface28
+        weight: 1
+      - path: polySurface18/polySurface21/polySurface22/polySurface25/polySurface26/polySurface28/polySurface29
+        weight: 1
+      - path: polySurface18/polySurface21/polySurface22/polySurface25/polySurface26/polySurface28/polySurface29/transform31
+        weight: 1
+      - path: polySurface18/polySurface21/polySurface22/polySurface25/polySurface26/polySurface28/transform30
+        weight: 1
+      - path: polySurface18/polySurface21/polySurface22/polySurface25/polySurface26/transform29
+        weight: 1
+      - path: polySurface18/polySurface21/polySurface22/polySurface25/transform28
+        weight: 1
+      - path: polySurface18/polySurface21/polySurface22/transform27
+        weight: 1
+      - path: polySurface18/polySurface21/transform26
+        weight: 1
+      - path: polySurface18/transform25
+        weight: 1
+      - path: polySurface74
+        weight: 1
+      - path: QuadrilPrincipal
+        weight: 1
+      - path: QuadrilPrincipal/CaldaComeco
+        weight: 1
+      - path: QuadrilPrincipal/CaldaComeco/Calda1
+        weight: 1
+      - path: QuadrilPrincipal/CaldaComeco/Calda1/Calda2
+        weight: 1
+      - path: QuadrilPrincipal/CaldaComeco/Calda1/Calda2/Calda3
+        weight: 1
+      - path: QuadrilPrincipal/CaldaComeco/Calda1/Calda2/Calda3/Calda4
+        weight: 1
+      - path: QuadrilPrincipal/CaldaComeco/Calda1/Calda2/Calda3/Calda4/Calda5
+        weight: 1
+      - path: QuadrilPrincipal/CaldaComeco/Calda1/Calda2/Calda3/Calda4/Calda5/CaldaFinal
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/AsaComeco
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/AsaComeco/AsaPontaDireita
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/AsaComeco/AsaPontaDireita/Asa1
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/AsaComeco/AsaPontaDireita/Asa1/Asa2
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/AsaComeco/AsaPontaDireita/Asa1/Asa2/Asa3
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/AsaComeco/AsaPontaDireita/Asa1/Asa2/Asa3/AsaFinalPontaDireita
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/AsaComeco1
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/AsaComeco1/AsaComecoEsquerda
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/AsaComeco1/AsaComecoEsquerda/Asa1Esquerda
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/AsaComeco1/AsaComecoEsquerda/Asa1Esquerda/Asa2Esquerda
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/AsaComeco1/AsaComecoEsquerda/Asa1Esquerda/Asa2Esquerda/Asa3Esquerda
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/AsaComeco1/AsaComecoEsquerda/Asa1Esquerda/Asa2Esquerda/Asa3Esquerda/AsaFinalEsquerda
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/QuadrilFrontal
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/QuadrilFrontal/FinalDorco
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/QuadrilFrontal/FinalDorco/ComecoPescoco
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/QuadrilFrontal/FinalDorco/ComecoPescoco/FinalPescoco
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/QuadrilFrontal/FinalDorco/ComecoPescoco/FinalPescoco/cabecaMeio
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/QuadrilFrontal/FinalDorco/ComecoPescoco/FinalPescoco/cabecaMeio/Boca
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/QuadrilFrontal/PernaDireitaCoxaFrontal
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/QuadrilFrontal/PernaDireitaCoxaFrontal/PernaDireitaCanelaFrontal
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/QuadrilFrontal/PernaDireitaCoxaFrontal/PernaDireitaCanelaFrontal/PernaDireitaPeFrontal
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/QuadrilFrontal/PernaDireitaCoxaFrontal/PernaDireitaCanelaFrontal/PernaDireitaPeFrontal/PernaDireitaDedosFrontal
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/QuadrilFrontal/PernaEsquerdaCoxaFrontal
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/QuadrilFrontal/PernaEsquerdaCoxaFrontal/PernaEsquerdaCanelaFrontal
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/QuadrilFrontal/PernaEsquerdaCoxaFrontal/PernaEsquerdaCanelaFrontal/PernaEsquerdaPeFrontal
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/QuadrilFrontal/PernaEsquerdaCoxaFrontal/PernaEsquerdaCanelaFrontal/PernaEsquerdaPeFrontal/PernaEsquerdaDedosFrontal
+        weight: 1
+      - path: QuadrilPrincipal/PernaDireitaCoxaTraseira
+        weight: 1
+      - path: QuadrilPrincipal/PernaDireitaCoxaTraseira/PernaDireitaCanelaTraseira
+        weight: 1
+      - path: QuadrilPrincipal/PernaDireitaCoxaTraseira/PernaDireitaCanelaTraseira/PernaDireitaPeTraseiro
+        weight: 1
+      - path: QuadrilPrincipal/PernaDireitaCoxaTraseira/PernaDireitaCanelaTraseira/PernaDireitaPeTraseiro/PernaDireitaDedosTraseiro
+        weight: 1
+      - path: QuadrilPrincipal/PernaEsquerdaCoxaTraseira
+        weight: 1
+      - path: QuadrilPrincipal/PernaEsquerdaCoxaTraseira/PernaEsquerdaCanelaTraseira
+        weight: 1
+      - path: QuadrilPrincipal/PernaEsquerdaCoxaTraseira/PernaEsquerdaCanelaTraseira/PernaEsquerdaPeTraseiro
+        weight: 1
+      - path: QuadrilPrincipal/PernaEsquerdaCoxaTraseira/PernaEsquerdaCanelaTraseira/PernaEsquerdaPeTraseiro/PernaEsquerdaDedosTraseiro
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: def
+      takeName: Take 001
+      firstFrame: 200
+      lastFrame: 261
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: areaLight1
+        weight: 1
+      - path: curve1
+        weight: 1
+      - path: curve2
+        weight: 1
+      - path: curve3
+        weight: 1
+      - path: curve4
+        weight: 1
+      - path: group
+        weight: 1
+      - path: pCube1
+        weight: 1
+      - path: pCube1/polySurface1
+        weight: 1
+      - path: pCube1/polySurface1/polySurface3
+        weight: 1
+      - path: pCube1/polySurface1/polySurface3/polySurface4
+        weight: 1
+      - path: pCube2
+        weight: 1
+      - path: pCube2/polySurface6
+        weight: 1
+      - path: pCube2/polySurface6/polySurface7 1
+        weight: 1
+      - path: pCube2/polySurface6/polySurface7 1/transform8
+        weight: 1
+      - path: pCube2/polySurface6/polySurface8
+        weight: 1
+      - path: pCube2/polySurface6/polySurface8/transform7
+        weight: 1
+      - path: pCube2/polySurface6/transform6
+        weight: 1
+      - path: pCube2/transform5
+        weight: 1
+      - path: polySurface7
+        weight: 1
+      - path: polySurface7/polySurface9
+        weight: 1
+      - path: polySurface7/polySurface9/polySurface10 1
+        weight: 1
+      - path: polySurface7/polySurface9/polySurface10 1/transform12
+        weight: 1
+      - path: polySurface7/polySurface9/polySurface11
+        weight: 1
+      - path: polySurface7/polySurface9/polySurface11/transform11
+        weight: 1
+      - path: polySurface7/polySurface9/transform10
+        weight: 1
+      - path: polySurface7/transform9
+        weight: 1
+      - path: polySurface10
+        weight: 1
+      - path: polySurface10/polySurface12 1
+        weight: 1
+      - path: polySurface10/polySurface12 1/transform15
+        weight: 1
+      - path: polySurface10/polySurface13
+        weight: 1
+      - path: polySurface10/polySurface13/transform14
+        weight: 1
+      - path: polySurface10/transform13
+        weight: 1
+      - path: polySurface12
+        weight: 1
+      - path: polySurface12/polySurface14
+        weight: 1
+      - path: polySurface12/polySurface14/transform17
+        weight: 1
+      - path: polySurface12/polySurface15 1
+        weight: 1
+      - path: polySurface12/polySurface15 1/transform18
+        weight: 1
+      - path: polySurface12/transform16
+        weight: 1
+      - path: polySurface15
+        weight: 1
+      - path: polySurface15/polySurface16 1
+        weight: 1
+      - path: polySurface15/polySurface16 1/transform21
+        weight: 1
+      - path: polySurface15/polySurface17
+        weight: 1
+      - path: polySurface15/polySurface17/transform20
+        weight: 1
+      - path: polySurface15/transform19
+        weight: 1
+      - path: polySurface16
+        weight: 1
+      - path: polySurface16/polySurface18 1
+        weight: 1
+      - path: polySurface16/polySurface18 1/transform24
+        weight: 1
+      - path: polySurface16/polySurface19
+        weight: 1
+      - path: polySurface16/polySurface19/transform23
+        weight: 1
+      - path: polySurface16/transform22
+        weight: 1
+      - path: polySurface18
+        weight: 1
+      - path: polySurface18/polySurface21
+        weight: 1
+      - path: polySurface18/polySurface21/polySurface22
+        weight: 1
+      - path: polySurface18/polySurface21/polySurface22/polySurface25
+        weight: 1
+      - path: polySurface18/polySurface21/polySurface22/polySurface25/polySurface26
+        weight: 1
+      - path: polySurface18/polySurface21/polySurface22/polySurface25/polySurface26/polySurface28
+        weight: 1
+      - path: polySurface18/polySurface21/polySurface22/polySurface25/polySurface26/polySurface28/polySurface29
+        weight: 1
+      - path: polySurface18/polySurface21/polySurface22/polySurface25/polySurface26/polySurface28/polySurface29/transform31
+        weight: 1
+      - path: polySurface18/polySurface21/polySurface22/polySurface25/polySurface26/polySurface28/transform30
+        weight: 1
+      - path: polySurface18/polySurface21/polySurface22/polySurface25/polySurface26/transform29
+        weight: 1
+      - path: polySurface18/polySurface21/polySurface22/polySurface25/transform28
+        weight: 1
+      - path: polySurface18/polySurface21/polySurface22/transform27
+        weight: 1
+      - path: polySurface18/polySurface21/transform26
+        weight: 1
+      - path: polySurface18/transform25
+        weight: 1
+      - path: polySurface74
+        weight: 1
+      - path: QuadrilPrincipal
+        weight: 1
+      - path: QuadrilPrincipal/CaldaComeco
+        weight: 1
+      - path: QuadrilPrincipal/CaldaComeco/Calda1
+        weight: 1
+      - path: QuadrilPrincipal/CaldaComeco/Calda1/Calda2
+        weight: 1
+      - path: QuadrilPrincipal/CaldaComeco/Calda1/Calda2/Calda3
+        weight: 1
+      - path: QuadrilPrincipal/CaldaComeco/Calda1/Calda2/Calda3/Calda4
+        weight: 1
+      - path: QuadrilPrincipal/CaldaComeco/Calda1/Calda2/Calda3/Calda4/Calda5
+        weight: 1
+      - path: QuadrilPrincipal/CaldaComeco/Calda1/Calda2/Calda3/Calda4/Calda5/CaldaFinal
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/AsaComeco
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/AsaComeco/AsaPontaDireita
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/AsaComeco/AsaPontaDireita/Asa1
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/AsaComeco/AsaPontaDireita/Asa1/Asa2
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/AsaComeco/AsaPontaDireita/Asa1/Asa2/Asa3
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/AsaComeco/AsaPontaDireita/Asa1/Asa2/Asa3/AsaFinalPontaDireita
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/AsaComeco1
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/AsaComeco1/AsaComecoEsquerda
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/AsaComeco1/AsaComecoEsquerda/Asa1Esquerda
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/AsaComeco1/AsaComecoEsquerda/Asa1Esquerda/Asa2Esquerda
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/AsaComeco1/AsaComecoEsquerda/Asa1Esquerda/Asa2Esquerda/Asa3Esquerda
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/AsaComeco1/AsaComecoEsquerda/Asa1Esquerda/Asa2Esquerda/Asa3Esquerda/AsaFinalEsquerda
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/QuadrilFrontal
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/QuadrilFrontal/FinalDorco
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/QuadrilFrontal/FinalDorco/ComecoPescoco
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/QuadrilFrontal/FinalDorco/ComecoPescoco/FinalPescoco
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/QuadrilFrontal/FinalDorco/ComecoPescoco/FinalPescoco/cabecaMeio
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/QuadrilFrontal/FinalDorco/ComecoPescoco/FinalPescoco/cabecaMeio/Boca
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/QuadrilFrontal/PernaDireitaCoxaFrontal
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/QuadrilFrontal/PernaDireitaCoxaFrontal/PernaDireitaCanelaFrontal
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/QuadrilFrontal/PernaDireitaCoxaFrontal/PernaDireitaCanelaFrontal/PernaDireitaPeFrontal
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/QuadrilFrontal/PernaDireitaCoxaFrontal/PernaDireitaCanelaFrontal/PernaDireitaPeFrontal/PernaDireitaDedosFrontal
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/QuadrilFrontal/PernaEsquerdaCoxaFrontal
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/QuadrilFrontal/PernaEsquerdaCoxaFrontal/PernaEsquerdaCanelaFrontal
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/QuadrilFrontal/PernaEsquerdaCoxaFrontal/PernaEsquerdaCanelaFrontal/PernaEsquerdaPeFrontal
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/QuadrilFrontal/PernaEsquerdaCoxaFrontal/PernaEsquerdaCanelaFrontal/PernaEsquerdaPeFrontal/PernaEsquerdaDedosFrontal
+        weight: 1
+      - path: QuadrilPrincipal/PernaDireitaCoxaTraseira
+        weight: 1
+      - path: QuadrilPrincipal/PernaDireitaCoxaTraseira/PernaDireitaCanelaTraseira
+        weight: 1
+      - path: QuadrilPrincipal/PernaDireitaCoxaTraseira/PernaDireitaCanelaTraseira/PernaDireitaPeTraseiro
+        weight: 1
+      - path: QuadrilPrincipal/PernaDireitaCoxaTraseira/PernaDireitaCanelaTraseira/PernaDireitaPeTraseiro/PernaDireitaDedosTraseiro
+        weight: 1
+      - path: QuadrilPrincipal/PernaEsquerdaCoxaTraseira
+        weight: 1
+      - path: QuadrilPrincipal/PernaEsquerdaCoxaTraseira/PernaEsquerdaCanelaTraseira
+        weight: 1
+      - path: QuadrilPrincipal/PernaEsquerdaCoxaTraseira/PernaEsquerdaCanelaTraseira/PernaEsquerdaPeTraseiro
+        weight: 1
+      - path: QuadrilPrincipal/PernaEsquerdaCoxaTraseira/PernaEsquerdaCanelaTraseira/PernaEsquerdaPeTraseiro/PernaEsquerdaDedosTraseiro
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: idle
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 2
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 1
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: areaLight1
+        weight: 1
+      - path: curve1
+        weight: 1
+      - path: curve2
+        weight: 1
+      - path: curve3
+        weight: 1
+      - path: curve4
+        weight: 1
+      - path: group
+        weight: 1
+      - path: pCube1
+        weight: 1
+      - path: pCube1/polySurface1
+        weight: 1
+      - path: pCube1/polySurface1/polySurface3
+        weight: 1
+      - path: pCube1/polySurface1/polySurface3/polySurface4
+        weight: 1
+      - path: pCube2
+        weight: 1
+      - path: pCube2/polySurface6
+        weight: 1
+      - path: pCube2/polySurface6/polySurface7 1
+        weight: 1
+      - path: pCube2/polySurface6/polySurface7 1/transform8
+        weight: 1
+      - path: pCube2/polySurface6/polySurface8
+        weight: 1
+      - path: pCube2/polySurface6/polySurface8/transform7
+        weight: 1
+      - path: pCube2/polySurface6/transform6
+        weight: 1
+      - path: pCube2/transform5
+        weight: 1
+      - path: polySurface7
+        weight: 1
+      - path: polySurface7/polySurface9
+        weight: 1
+      - path: polySurface7/polySurface9/polySurface10 1
+        weight: 1
+      - path: polySurface7/polySurface9/polySurface10 1/transform12
+        weight: 1
+      - path: polySurface7/polySurface9/polySurface11
+        weight: 1
+      - path: polySurface7/polySurface9/polySurface11/transform11
+        weight: 1
+      - path: polySurface7/polySurface9/transform10
+        weight: 1
+      - path: polySurface7/transform9
+        weight: 1
+      - path: polySurface10
+        weight: 1
+      - path: polySurface10/polySurface12 1
+        weight: 1
+      - path: polySurface10/polySurface12 1/transform15
+        weight: 1
+      - path: polySurface10/polySurface13
+        weight: 1
+      - path: polySurface10/polySurface13/transform14
+        weight: 1
+      - path: polySurface10/transform13
+        weight: 1
+      - path: polySurface12
+        weight: 1
+      - path: polySurface12/polySurface14
+        weight: 1
+      - path: polySurface12/polySurface14/transform17
+        weight: 1
+      - path: polySurface12/polySurface15 1
+        weight: 1
+      - path: polySurface12/polySurface15 1/transform18
+        weight: 1
+      - path: polySurface12/transform16
+        weight: 1
+      - path: polySurface15
+        weight: 1
+      - path: polySurface15/polySurface16 1
+        weight: 1
+      - path: polySurface15/polySurface16 1/transform21
+        weight: 1
+      - path: polySurface15/polySurface17
+        weight: 1
+      - path: polySurface15/polySurface17/transform20
+        weight: 1
+      - path: polySurface15/transform19
+        weight: 1
+      - path: polySurface16
+        weight: 1
+      - path: polySurface16/polySurface18 1
+        weight: 1
+      - path: polySurface16/polySurface18 1/transform24
+        weight: 1
+      - path: polySurface16/polySurface19
+        weight: 1
+      - path: polySurface16/polySurface19/transform23
+        weight: 1
+      - path: polySurface16/transform22
+        weight: 1
+      - path: polySurface18
+        weight: 1
+      - path: polySurface18/polySurface21
+        weight: 1
+      - path: polySurface18/polySurface21/polySurface22
+        weight: 1
+      - path: polySurface18/polySurface21/polySurface22/polySurface25
+        weight: 1
+      - path: polySurface18/polySurface21/polySurface22/polySurface25/polySurface26
+        weight: 1
+      - path: polySurface18/polySurface21/polySurface22/polySurface25/polySurface26/polySurface28
+        weight: 1
+      - path: polySurface18/polySurface21/polySurface22/polySurface25/polySurface26/polySurface28/polySurface29
+        weight: 1
+      - path: polySurface18/polySurface21/polySurface22/polySurface25/polySurface26/polySurface28/polySurface29/transform31
+        weight: 1
+      - path: polySurface18/polySurface21/polySurface22/polySurface25/polySurface26/polySurface28/transform30
+        weight: 1
+      - path: polySurface18/polySurface21/polySurface22/polySurface25/polySurface26/transform29
+        weight: 1
+      - path: polySurface18/polySurface21/polySurface22/polySurface25/transform28
+        weight: 1
+      - path: polySurface18/polySurface21/polySurface22/transform27
+        weight: 1
+      - path: polySurface18/polySurface21/transform26
+        weight: 1
+      - path: polySurface18/transform25
+        weight: 1
+      - path: polySurface74
+        weight: 1
+      - path: QuadrilPrincipal
+        weight: 1
+      - path: QuadrilPrincipal/CaldaComeco
+        weight: 1
+      - path: QuadrilPrincipal/CaldaComeco/Calda1
+        weight: 1
+      - path: QuadrilPrincipal/CaldaComeco/Calda1/Calda2
+        weight: 1
+      - path: QuadrilPrincipal/CaldaComeco/Calda1/Calda2/Calda3
+        weight: 1
+      - path: QuadrilPrincipal/CaldaComeco/Calda1/Calda2/Calda3/Calda4
+        weight: 1
+      - path: QuadrilPrincipal/CaldaComeco/Calda1/Calda2/Calda3/Calda4/Calda5
+        weight: 1
+      - path: QuadrilPrincipal/CaldaComeco/Calda1/Calda2/Calda3/Calda4/Calda5/CaldaFinal
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/AsaComeco
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/AsaComeco/AsaPontaDireita
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/AsaComeco/AsaPontaDireita/Asa1
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/AsaComeco/AsaPontaDireita/Asa1/Asa2
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/AsaComeco/AsaPontaDireita/Asa1/Asa2/Asa3
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/AsaComeco/AsaPontaDireita/Asa1/Asa2/Asa3/AsaFinalPontaDireita
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/AsaComeco1
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/AsaComeco1/AsaComecoEsquerda
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/AsaComeco1/AsaComecoEsquerda/Asa1Esquerda
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/AsaComeco1/AsaComecoEsquerda/Asa1Esquerda/Asa2Esquerda
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/AsaComeco1/AsaComecoEsquerda/Asa1Esquerda/Asa2Esquerda/Asa3Esquerda
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/AsaComeco1/AsaComecoEsquerda/Asa1Esquerda/Asa2Esquerda/Asa3Esquerda/AsaFinalEsquerda
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/QuadrilFrontal
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/QuadrilFrontal/FinalDorco
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/QuadrilFrontal/FinalDorco/ComecoPescoco
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/QuadrilFrontal/FinalDorco/ComecoPescoco/FinalPescoco
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/QuadrilFrontal/FinalDorco/ComecoPescoco/FinalPescoco/cabecaMeio
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/QuadrilFrontal/FinalDorco/ComecoPescoco/FinalPescoco/cabecaMeio/Boca
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/QuadrilFrontal/PernaDireitaCoxaFrontal
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/QuadrilFrontal/PernaDireitaCoxaFrontal/PernaDireitaCanelaFrontal
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/QuadrilFrontal/PernaDireitaCoxaFrontal/PernaDireitaCanelaFrontal/PernaDireitaPeFrontal
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/QuadrilFrontal/PernaDireitaCoxaFrontal/PernaDireitaCanelaFrontal/PernaDireitaPeFrontal/PernaDireitaDedosFrontal
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/QuadrilFrontal/PernaEsquerdaCoxaFrontal
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/QuadrilFrontal/PernaEsquerdaCoxaFrontal/PernaEsquerdaCanelaFrontal
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/QuadrilFrontal/PernaEsquerdaCoxaFrontal/PernaEsquerdaCanelaFrontal/PernaEsquerdaPeFrontal
+        weight: 1
+      - path: QuadrilPrincipal/MeioQuadril/QuadrilFrontal/PernaEsquerdaCoxaFrontal/PernaEsquerdaCanelaFrontal/PernaEsquerdaPeFrontal/PernaEsquerdaDedosFrontal
+        weight: 1
+      - path: QuadrilPrincipal/PernaDireitaCoxaTraseira
+        weight: 1
+      - path: QuadrilPrincipal/PernaDireitaCoxaTraseira/PernaDireitaCanelaTraseira
+        weight: 1
+      - path: QuadrilPrincipal/PernaDireitaCoxaTraseira/PernaDireitaCanelaTraseira/PernaDireitaPeTraseiro
+        weight: 1
+      - path: QuadrilPrincipal/PernaDireitaCoxaTraseira/PernaDireitaCanelaTraseira/PernaDireitaPeTraseiro/PernaDireitaDedosTraseiro
+        weight: 1
+      - path: QuadrilPrincipal/PernaEsquerdaCoxaTraseira
+        weight: 1
+      - path: QuadrilPrincipal/PernaEsquerdaCoxaTraseira/PernaEsquerdaCanelaTraseira
+        weight: 1
+      - path: QuadrilPrincipal/PernaEsquerdaCoxaTraseira/PernaEsquerdaCanelaTraseira/PernaEsquerdaPeTraseiro
+        weight: 1
+      - path: QuadrilPrincipal/PernaEsquerdaCoxaTraseira/PernaEsquerdaCanelaTraseira/PernaEsquerdaPeTraseiro/PernaEsquerdaDedosTraseiro
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 100
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

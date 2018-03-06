@@ -1,0 +1,163 @@
+fileFormatVersion: 2
+guid: 67e6b2f6e19c9cb4182d51063c5ded4f
+timeCreated: 1509924877
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: asa1
+    100002: asa1b
+    100004: asa2
+    100006: asa2b
+    100008: asa3
+    100010: asa3b
+    100012: asa4
+    100014: asa4b
+    100016: Bacia
+    100018: Cabeca
+    100020: CentroMS
+    100022: ComecoAsa
+    100024: ComecoAsa2
+    100026: //RootNode
+    100028: FinalPescoco
+    100030: joelho
+    100032: joelho2
+    100034: Mandibula
+    100036: Meio
+    100038: menbroI1
+    100040: menbroI2
+    100042: Ombro
+    100044: Ombro2
+    100046: pe
+    100048: pe2
+    100050: pe3
+    100052: pe4
+    100054: perna
+    100056: perna2
+    100058: perna3
+    100060: perna4
+    100062: Pescoco
+    100064: polySurface154
+    100066: polySurface213
+    100068: polySurface215
+    100070: polySurface216
+    100072: raboComeco
+    100074: rabomeio
+    100076: raboPonta
+    100078: transform7
+    100080: transform8
+    400000: asa1
+    400002: asa1b
+    400004: asa2
+    400006: asa2b
+    400008: asa3
+    400010: asa3b
+    400012: asa4
+    400014: asa4b
+    400016: Bacia
+    400018: Cabeca
+    400020: CentroMS
+    400022: ComecoAsa
+    400024: ComecoAsa2
+    400026: //RootNode
+    400028: FinalPescoco
+    400030: joelho
+    400032: joelho2
+    400034: Mandibula
+    400036: Meio
+    400038: menbroI1
+    400040: menbroI2
+    400042: Ombro
+    400044: Ombro2
+    400046: pe
+    400048: pe2
+    400050: pe3
+    400052: pe4
+    400054: perna
+    400056: perna2
+    400058: perna3
+    400060: perna4
+    400062: Pescoco
+    400064: polySurface154
+    400066: polySurface213
+    400068: polySurface215
+    400070: polySurface216
+    400072: raboComeco
+    400074: rabomeio
+    400076: raboPonta
+    400078: transform7
+    400080: transform8
+    4300000: polySurface216
+    7400000: DragonProject
+    9500000: //RootNode
+    13700000: polySurface216
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

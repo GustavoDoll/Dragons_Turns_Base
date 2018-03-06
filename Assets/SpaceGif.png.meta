@@ -1,0 +1,756 @@
+fileFormatVersion: 2
+guid: d5686d83424af8c499c74ad9fba18557
+timeCreated: 1509571730
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: SpaceGif_0
+    21300002: SpaceGif_1
+    21300004: SpaceGif_2
+    21300006: SpaceGif_3
+    21300008: SpaceGif_4
+    21300010: SpaceGif_5
+    21300012: SpaceGif_6
+    21300014: SpaceGif_7
+    21300016: SpaceGif_8
+    21300018: SpaceGif_9
+    21300020: SpaceGif_10
+    21300022: SpaceGif_11
+    21300024: SpaceGif_12
+    21300026: SpaceGif_13
+    21300028: SpaceGif_14
+    21300030: SpaceGif_15
+    21300032: SpaceGif_16
+    21300034: SpaceGif_17
+    21300036: SpaceGif_18
+    21300038: SpaceGif_19
+    21300040: SpaceGif_20
+    21300042: SpaceGif_21
+    21300044: SpaceGif_22
+    21300046: SpaceGif_23
+    21300048: SpaceGif_24
+    21300050: SpaceGif_25
+    21300052: SpaceGif_26
+    21300054: SpaceGif_27
+    21300056: SpaceGif_28
+    21300058: SpaceGif_29
+    21300060: SpaceGif_30
+    21300062: SpaceGif_31
+    21300064: SpaceGif_32
+    21300066: SpaceGif_33
+    21300068: SpaceGif_34
+    21300070: SpaceGif_35
+    21300072: SpaceGif_36
+    21300074: SpaceGif_37
+    21300076: SpaceGif_38
+    21300078: SpaceGif_39
+    21300080: SpaceGif_40
+    21300082: SpaceGif_41
+    21300084: SpaceGif_42
+    21300086: SpaceGif_43
+    21300088: SpaceGif_44
+    21300090: SpaceGif_45
+    21300092: SpaceGif_46
+    21300094: SpaceGif_47
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpaceGif_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3240
+        width: 800
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceGif_1
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 3240
+        width: 800
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceGif_2
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 3240
+        width: 800
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceGif_3
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 3240
+        width: 800
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceGif_4
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 3240
+        width: 800
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceGif_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2880
+        width: 800
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceGif_6
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2880
+        width: 800
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceGif_7
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2880
+        width: 800
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceGif_8
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2880
+        width: 800
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceGif_9
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2880
+        width: 800
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceGif_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2520
+        width: 800
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceGif_11
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2520
+        width: 800
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceGif_12
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2520
+        width: 800
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceGif_13
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2520
+        width: 800
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceGif_14
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2520
+        width: 800
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceGif_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 800
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceGif_16
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 2160
+        width: 800
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceGif_17
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 2160
+        width: 800
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceGif_18
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 2160
+        width: 800
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceGif_19
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 2160
+        width: 800
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceGif_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 800
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceGif_21
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1800
+        width: 800
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceGif_22
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1800
+        width: 800
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceGif_23
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1800
+        width: 800
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceGif_24
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1800
+        width: 800
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceGif_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 800
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceGif_26
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1440
+        width: 800
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceGif_27
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1440
+        width: 800
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceGif_28
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1440
+        width: 800
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceGif_29
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1440
+        width: 800
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceGif_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 800
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceGif_31
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1080
+        width: 800
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceGif_32
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 1080
+        width: 800
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceGif_33
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1080
+        width: 800
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceGif_34
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 1080
+        width: 800
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceGif_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 800
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceGif_36
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 720
+        width: 800
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceGif_37
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 720
+        width: 800
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceGif_38
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 720
+        width: 800
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceGif_39
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 720
+        width: 800
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceGif_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 800
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceGif_41
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 360
+        width: 800
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceGif_42
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 360
+        width: 800
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceGif_43
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 360
+        width: 800
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceGif_44
+      rect:
+        serializedVersion: 2
+        x: 3200
+        y: 360
+        width: 800
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceGif_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 800
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceGif_46
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 800
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: SpaceGif_47
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 800
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
